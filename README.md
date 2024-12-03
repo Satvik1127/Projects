@@ -47,4 +47,4 @@ It features individual product pages, styling, and interactivity.
 
 ## Authors
 
-- Nishant Murali
+Satvik Shingote
